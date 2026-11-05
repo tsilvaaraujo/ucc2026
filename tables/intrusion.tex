@@ -1,0 +1,21 @@
+\begin{table}[t]
+\centering
+\caption{Profiler intrusion on end-to-end run time.}
+\label{tab:intrusion}
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{lrrrrcr}
+\toprule
+Workload & $n$ & Median & $\Delta t$ & $\Delta t$/round & 95\,\% CI & $p_\text{Holm}$ \\
+         &     & (\%)   & (\%)       & (\si{\second})   & (\si{\second}) &  \\
+\midrule
+CNN  & 10 & $-0.30$ & $-0.26$ & $-1.06$ & $[-2.06, -0.10]$ & 0.098 \\
+LSTM & 10 & $+3.65$ & $+3.79$ & $+3.00$ & $[+2.43, +3.96]$ & \textbf{0.006} \\
+LLM  & 10 & $+0.11$ & $+0.14$ & $+7.15$ & $[-5.82, +23.41]$ & 0.322 \\
+\bottomrule
+\end{tabular}
+
+\vspace{2pt}
+{\footnotesize $\Delta t$: Hodges--Lehmann estimate of $T_\text{on}-T_\text{off}$.
+CI: exact Walsh-average interval for $\Delta t$/round (95.1\,\% for $n=10$).
+$p_\text{Holm}$: exact Wilcoxon signed-rank $p$-value, Holm-adjusted.}
+\end{table}

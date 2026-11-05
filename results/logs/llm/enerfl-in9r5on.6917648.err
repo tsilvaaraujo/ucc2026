@@ -1,0 +1,12 @@
+/var/lib/oar/.batch_job_bashrc: line 5: /home/taraujo/.bashrc: No such file or directory
+/var/lib/oar/.batch_job_bashrc: line 5: /home/taraujo/.bashrc: No such file or directory
+/var/lib/oar/.batch_job_bashrc: line 5: /home/taraujo/.bashrc: No such file or directory
+╭────────────────── Update available ───────────────────╮
+│ A newer Flower version is available: 1.33.0 -> 1.36.0 │
+│ Upgrade: python -m pip install -U flwr                │
+╰───────────────────────────────────────────────────────╯
+[93mWARNING [0m:   Option `--insecure` was set. Starting insecure HTTP server with unencrypted communication (TLS disabled). Proceed only if you understand the risks.
+[93mWARNING [0m:   SuperNode authentication is disabled. The SuperLink will accept connections from any SuperNode.
+[92mINFO [0m:      Starting Flower SuperExec
+[92mINFO [0m:      Starting logstream for run_id `14980092106708492892`
+[92mINFO [0m:      SuperExec terminated gracefully.

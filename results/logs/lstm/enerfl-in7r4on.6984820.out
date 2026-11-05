@@ -1,0 +1,286 @@
+[job 6984820] server=gros-39 ip=172.16.66.39 clients=gros-40.nancy.grid5000.fr gros-41.nancy.grid5000.fr gros-42.nancy.grid5000.fr gros-43.nancy.grid5000.fr gros-44.nancy.grid5000.fr gros-45.nancy.grid5000.fr gros-46.nancy.grid5000.fr gros-47.nancy.grid5000.fr gros-48.nancy.grid5000.fr gros-49.nancy.grid5000.fr gros-4.nancy.grid5000.fr gros-50.nancy.grid5000.fr gros-51.nancy.grid5000.fr gros-52.nancy.grid5000.fr gros-53.nancy.grid5000.fr gros-54.nancy.grid5000.fr gros-55.nancy.grid5000.fr gros-56.nancy.grid5000.fr gros-57.nancy.grid5000.fr gros-58.nancy.grid5000.fr gros-59.nancy.grid5000.fr gros-5.nancy.grid5000.fr gros-60.nancy.grid5000.fr gros-61.nancy.grid5000.fr gros-62.nancy.grid5000.fr gros-63.nancy.grid5000.fr gros-64.nancy.grid5000.fr gros-65.nancy.grid5000.fr gros-66.nancy.grid5000.fr gros-67.nancy.grid5000.fr gros-68.nancy.grid5000.fr gros-69.nancy.grid5000.fr gros-6.nancy.grid5000.fr gros-70.nancy.grid5000.fr gros-71.nancy.grid5000.fr gros-72.nancy.grid5000.fr gros-73.nancy.grid5000.fr gros-74.nancy.grid5000.fr gros-75.nancy.grid5000.fr gros-76.nancy.grid5000.fr gros-77.nancy.grid5000.fr gros-78.nancy.grid5000.fr gros-79.nancy.grid5000.fr gros-7.nancy.grid5000.fr gros-80.nancy.grid5000.fr gros-81.nancy.grid5000.fr gros-82.nancy.grid5000.fr gros-83.nancy.grid5000.fr gros-84.nancy.grid5000.fr gros-85.nancy.grid5000.fr gros-86.nancy.grid5000.fr gros-87.nancy.grid5000.fr gros-88.nancy.grid5000.fr gros-89.nancy.grid5000.fr gros-90.nancy.grid5000.fr gros-91.nancy.grid5000.fr gros-92.nancy.grid5000.fr gros-93.nancy.grid5000.fr gros-94.nancy.grid5000.fr gros-95.nancy.grid5000.fr gros-96.nancy.grid5000.fr gros-97.nancy.grid5000.fr gros-98.nancy.grid5000.fr gros-99.nancy.grid5000.fr
+[job 6984820] NUM_CLIENTS=64 clients/node=1
+[stage] gros-39.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-39.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[server] gros-39.nancy.grid5000.fr ip=172.16.66.39 csv=/tmp/enerfl-benchmarking/results/metrics_Sentiment140_FedAvg_LSTM_c64_rin7r4on_p1_6984820.csv mode=on
+[stage] gros-46.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-40.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-47.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-45.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-48.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-55.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-56.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-42.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-58.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-54.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-50.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-64.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-4.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-66.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-57.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-53.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-62.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-60.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-41.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-51.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-61.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-74.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-44.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-72.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-59.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-71.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-76.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-63.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-67.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-69.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-81.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-65.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-85.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-43.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-52.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-84.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-94.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-73.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-83.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-49.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-68.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-95.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-70.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-75.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-89.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-82.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-77.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-78.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-79.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-86.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-98.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-90.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-7.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-5.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-91.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-97.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-80.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-88.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-99.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-92.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-93.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-87.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-6.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-96.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+Waiting 30s for clients to connect...
+[client] gros-72.nancy.grid5000.fr clients/node=1 base=35 link=172.16.66.39
+[client] spawn partition-id=35 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p35_gros-72.log
+[client] gros-74.nancy.grid5000.fr clients/node=1 base=37 link=172.16.66.39
+[client] spawn partition-id=37 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p37_gros-74.log
+Starting flwr run (PROFILER_MODE=on)...
+Using SuperLink: local-deployment (127.0.0.1:9093)
+Successfully started run 5293709114187638296
+[client] gros-47.nancy.grid5000.fr clients/node=1 base=7 link=172.16.66.39
+[client] spawn partition-id=7 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p7_gros-47.log
+[client] gros-80.nancy.grid5000.fr clients/node=1 base=44 link=172.16.66.39
+[client] spawn partition-id=44 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p44_gros-80.log
+[client] gros-51.nancy.grid5000.fr clients/node=1 base=12 link=172.16.66.39
+[client] spawn partition-id=12 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p12_gros-51.log
+[client] gros-49.nancy.grid5000.fr clients/node=1 base=9 link=172.16.66.39
+[client] spawn partition-id=9 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p9_gros-49.log
+[client] gros-64.nancy.grid5000.fr clients/node=1 base=26 link=172.16.66.39
+[client] spawn partition-id=26 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p26_gros-64.log
+[client] gros-68.nancy.grid5000.fr clients/node=1 base=30 link=172.16.66.39
+[client] spawn partition-id=30 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p30_gros-68.log
+[client] gros-57.nancy.grid5000.fr clients/node=1 base=18 link=172.16.66.39
+[client] spawn partition-id=18 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p18_gros-57.log
+[client] gros-71.nancy.grid5000.fr clients/node=1 base=34 link=172.16.66.39
+[client] spawn partition-id=34 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p34_gros-71.log
+[client] gros-61.nancy.grid5000.fr clients/node=1 base=23 link=172.16.66.39
+[client] spawn partition-id=23 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p23_gros-61.log
+[client] gros-86.nancy.grid5000.fr clients/node=1 base=50 link=172.16.66.39
+[client] spawn partition-id=50 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p50_gros-86.log
+[client] gros-43.nancy.grid5000.fr clients/node=1 base=3 link=172.16.66.39
+[client] spawn partition-id=3 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p3_gros-43.log
+[client] gros-66.nancy.grid5000.fr clients/node=1 base=28 link=172.16.66.39
+[client] spawn partition-id=28 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p28_gros-66.log
+[client] gros-88.nancy.grid5000.fr clients/node=1 base=52 link=172.16.66.39
+[client] spawn partition-id=52 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p52_gros-88.log
+[client] gros-78.nancy.grid5000.fr clients/node=1 base=41 link=172.16.66.39
+[client] spawn partition-id=41 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p41_gros-78.log
+[client] gros-69.nancy.grid5000.fr clients/node=1 base=31 link=172.16.66.39
+[client] spawn partition-id=31 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p31_gros-69.log
+[client] gros-46.nancy.grid5000.fr clients/node=1 base=6 link=172.16.66.39
+[client] spawn partition-id=6 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p6_gros-46.log
+[client] gros-53.nancy.grid5000.fr clients/node=1 base=14 link=172.16.66.39
+[client] spawn partition-id=14 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p14_gros-53.log
+[client] gros-52.nancy.grid5000.fr clients/node=1 base=13 link=172.16.66.39
+[client] spawn partition-id=13 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p13_gros-52.log
+[client] gros-90.nancy.grid5000.fr clients/node=1 base=54 link=172.16.66.39
+[client] spawn partition-id=54 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p54_gros-90.log
+[client] gros-94.nancy.grid5000.fr clients/node=1 base=58 link=172.16.66.39
+[client] spawn partition-id=58 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p58_gros-94.log
+[client] gros-65.nancy.grid5000.fr clients/node=1 base=27 link=172.16.66.39
+[client] spawn partition-id=27 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p27_gros-65.log
+[client] gros-5.nancy.grid5000.fr clients/node=1 base=21 link=172.16.66.39
+[client] spawn partition-id=21 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p21_gros-5.log
+[client] gros-95.nancy.grid5000.fr clients/node=1 base=59 link=172.16.66.39
+[client] spawn partition-id=59 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p59_gros-95.log
+[client] gros-81.nancy.grid5000.fr clients/node=1 base=45 link=172.16.66.39
+[client] spawn partition-id=45 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p45_gros-81.log
+[client] gros-44.nancy.grid5000.fr clients/node=1 base=4 link=172.16.66.39
+[client] spawn partition-id=4 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p4_gros-44.log
+[client] gros-92.nancy.grid5000.fr clients/node=1 base=56 link=172.16.66.39
+[client] spawn partition-id=56 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p56_gros-92.log
+[client] gros-96.nancy.grid5000.fr clients/node=1 base=60 link=172.16.66.39
+[client] spawn partition-id=60 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p60_gros-96.log
+[client] gros-73.nancy.grid5000.fr clients/node=1 base=36 link=172.16.66.39
+[client] spawn partition-id=36 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p36_gros-73.log
+[client] gros-93.nancy.grid5000.fr clients/node=1 base=57 link=172.16.66.39
+[client] spawn partition-id=57 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p57_gros-93.log
+[client] gros-42.nancy.grid5000.fr clients/node=1 base=2 link=172.16.66.39
+[client] spawn partition-id=2 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p2_gros-42.log
+[client] gros-59.nancy.grid5000.fr clients/node=1 base=20 link=172.16.66.39
+[client] spawn partition-id=20 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p20_gros-59.log
+[client] gros-4.nancy.grid5000.fr clients/node=1 base=10 link=172.16.66.39
+[client] spawn partition-id=10 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p10_gros-4.log
+[client] gros-45.nancy.grid5000.fr clients/node=1 base=5 link=172.16.66.39
+[client] spawn partition-id=5 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p5_gros-45.log
+[client] gros-70.nancy.grid5000.fr clients/node=1 base=33 link=172.16.66.39
+[client] spawn partition-id=33 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p33_gros-70.log
+[client] gros-56.nancy.grid5000.fr clients/node=1 base=17 link=172.16.66.39
+[client] spawn partition-id=17 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p17_gros-56.log
+[client] gros-62.nancy.grid5000.fr clients/node=1 base=24 link=172.16.66.39
+[client] spawn partition-id=24 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p24_gros-62.log
+[client] gros-79.nancy.grid5000.fr clients/node=1 base=42 link=172.16.66.39
+[client] spawn partition-id=42 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p42_gros-79.log
+[client] gros-89.nancy.grid5000.fr clients/node=1 base=53 link=172.16.66.39
+[client] spawn partition-id=53 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p53_gros-89.log
+[client] gros-77.nancy.grid5000.fr clients/node=1 base=40 link=172.16.66.39
+[client] spawn partition-id=40 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p40_gros-77.log
+[client] gros-85.nancy.grid5000.fr clients/node=1 base=49 link=172.16.66.39
+[client] spawn partition-id=49 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p49_gros-85.log
+[client] gros-40.nancy.grid5000.fr clients/node=1 base=0 link=172.16.66.39
+[client] spawn partition-id=0 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p0_gros-40.log
+[client] gros-87.nancy.grid5000.fr clients/node=1 base=51 link=172.16.66.39
+[client] spawn partition-id=51 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p51_gros-87.log
+[client] gros-75.nancy.grid5000.fr clients/node=1 base=38 link=172.16.66.39
+[client] spawn partition-id=38 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p38_gros-75.log
+[client] gros-50.nancy.grid5000.fr clients/node=1 base=11 link=172.16.66.39
+[client] spawn partition-id=11 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p11_gros-50.log
+[client] gros-54.nancy.grid5000.fr clients/node=1 base=15 link=172.16.66.39
+[client] spawn partition-id=15 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p15_gros-54.log
+[client] gros-91.nancy.grid5000.fr clients/node=1 base=55 link=172.16.66.39
+[client] spawn partition-id=55 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p55_gros-91.log
+[client] gros-98.nancy.grid5000.fr clients/node=1 base=62 link=172.16.66.39
+[client] spawn partition-id=62 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p62_gros-98.log
+[client] gros-60.nancy.grid5000.fr clients/node=1 base=22 link=172.16.66.39
+[client] spawn partition-id=22 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p22_gros-60.log
+[client] gros-76.nancy.grid5000.fr clients/node=1 base=39 link=172.16.66.39
+[client] spawn partition-id=39 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p39_gros-76.log
+[client] gros-84.nancy.grid5000.fr clients/node=1 base=48 link=172.16.66.39
+[client] spawn partition-id=48 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p48_gros-84.log
+[client] gros-67.nancy.grid5000.fr clients/node=1 base=29 link=172.16.66.39
+[client] spawn partition-id=29 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p29_gros-67.log
+[client] gros-99.nancy.grid5000.fr clients/node=1 base=63 link=172.16.66.39
+[client] spawn partition-id=63 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p63_gros-99.log
+[client] gros-82.nancy.grid5000.fr clients/node=1 base=46 link=172.16.66.39
+[client] spawn partition-id=46 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p46_gros-82.log
+[client] gros-41.nancy.grid5000.fr clients/node=1 base=1 link=172.16.66.39
+[client] spawn partition-id=1 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p1_gros-41.log
+[client] gros-83.nancy.grid5000.fr clients/node=1 base=47 link=172.16.66.39
+[client] spawn partition-id=47 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p47_gros-83.log
+[client] gros-55.nancy.grid5000.fr clients/node=1 base=16 link=172.16.66.39
+[client] spawn partition-id=16 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p16_gros-55.log
+[client] gros-48.nancy.grid5000.fr clients/node=1 base=8 link=172.16.66.39
+[client] spawn partition-id=8 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p8_gros-48.log
+[client] gros-63.nancy.grid5000.fr clients/node=1 base=25 link=172.16.66.39
+[client] spawn partition-id=25 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p25_gros-63.log
+[client] gros-6.nancy.grid5000.fr clients/node=1 base=32 link=172.16.66.39
+[client] spawn partition-id=32 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p32_gros-6.log
+[client] gros-7.nancy.grid5000.fr clients/node=1 base=43 link=172.16.66.39
+[client] spawn partition-id=43 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p43_gros-7.log
+[client] gros-97.nancy.grid5000.fr clients/node=1 base=61 link=172.16.66.39
+[client] spawn partition-id=61 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p61_gros-97.log
+[client] gros-58.nancy.grid5000.fr clients/node=1 base=19 link=172.16.66.39
+[client] spawn partition-id=19 port=9094 -> /tmp/enerfl-benchmarking/state/6984820/client_logs/supernode_p19_gros-58.log
+[92mINFO [0m:      Start `flwr-serverapp` process
+mkdir -p failed for path /home/taraujo/.config/matplotlib: [Errno 13] Permission denied: '/home/taraujo/.config/matplotlib'
+Matplotlib created a temporary cache directory at /tmp/matplotlib-00zc3j9b because there was an issue with the default path ({configdir}); it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+[93mWARNING [0m:   CarbonTracker: dropping unsupported kwarg 'country_iso_code'
+[codecarbon WARNING @ 11:11:48] Multiple instances of codecarbon are allowed to run at the same time.
+[92mINFO [0m:      Waiting for clients: 8/64 connected
+[92mINFO [0m:      Waiting for clients: 9/64 connected
+[92mINFO [0m:      Waiting for clients: 12/64 connected
+[92mINFO [0m:      Waiting for clients: 13/64 connected
+[92mINFO [0m:      Waiting for clients: 15/64 connected
+[92mINFO [0m:      Waiting for clients: 16/64 connected
+[92mINFO [0m:      Waiting for clients: 18/64 connected
+[92mINFO [0m:      Waiting for clients: 21/64 connected
+[92mINFO [0m:      Waiting for clients: 23/64 connected
+[92mINFO [0m:      Waiting for clients: 24/64 connected
+[92mINFO [0m:      Waiting for clients: 26/64 connected
+[92mINFO [0m:      Waiting for clients: 27/64 connected
+[92mINFO [0m:      Waiting for clients: 30/64 connected
+[92mINFO [0m:      Waiting for clients: 34/64 connected
+[92mINFO [0m:      Waiting for clients: 36/64 connected
+[92mINFO [0m:      Waiting for clients: 38/64 connected
+[92mINFO [0m:      Waiting for clients: 39/64 connected
+[92mINFO [0m:      Waiting for clients: 44/64 connected
+[92mINFO [0m:      Waiting for clients: 48/64 connected
+[92mINFO [0m:      Waiting for clients: 57/64 connected
+[92mINFO [0m:      Waiting for clients: 63/64 connected
+[92mINFO [0m:      All 64 clients connected after 26.1s
+[92mINFO [0m:      Starting FedAvg (profiled):
+[92mINFO [0m:      	├── Number of rounds: 5
+[92mINFO [0m:      	├── ArrayRecord (18.42 MB)
+[92mINFO [0m:      	├── ConfigRecord (train): (empty!)
+[92mINFO [0m:      	├── ConfigRecord (evaluate): (empty!)
+[92mINFO [0m:      	├──> Sampling:
+[92mINFO [0m:      	│	├──Fraction: train (1.00) | evaluate ( 1.00)
+[92mINFO [0m:      	│	├──Minimum nodes: train (64) | evaluate (64)
+[92mINFO [0m:      	│	└──Minimum available nodes: 64
+[92mINFO [0m:      	└──> Keys in records:
+[92mINFO [0m:      		├── Weighted by: 'num-examples'
+[92mINFO [0m:      		├── ArrayRecord key: 'arrays'
+[92mINFO [0m:      		└── ConfigRecord key: 'config'
+[92mINFO [0m:      
+[92mINFO [0m:      
+[92mINFO [0m:      [ROUND 1/5]
+[92mINFO [0m:      configure_train: Sampled 64 nodes (out of 64)
+[92mINFO [0m:      aggregate_train: Received 64 results and 0 failures
+[92mINFO [0m:      	└──> Train metrics: {'model_creation_time': 0.044343053109373365, 'model_deserialization_time': 0.019825955343748092, 'data_loading_time': 12.887609725249998, 'local_training_time': 37.80923853989061, 'model_serialization_time': 0.005751185953126736, 'client_total_time': 50.76676845954687, 'client_energy_joules': 3045.9142000239526, 'client_emissions_kg': 0.0, 'client_carbon_duration': 50.77083154767752}
+[92mINFO [0m:      configure_evaluate: Sampled 64 nodes (out of 64)
+[92mINFO [0m:      aggregate_evaluate: Received 64 results and 0 failures
+[92mINFO [0m:      	└──> Eval metrics: {'test_logloss': 0.6931886181567504, 'accuracy': 0.499084375, 'model_creation_time': 0.024624780203127195, 'model_deserialization_time': 0.010429264671875771, 'data_loading_time': 2.3073174660781195, 'local_evaluation_time': 2.2934503506249992, 'client_total_time': 4.635821861578122, 'client_energy_joules': 217.76305214187377, 'client_emissions_kg': 0.0, 'client_carbon_duration': 4.6358912624418736}
+[92mINFO [0m:      
+[92mINFO [0m:      [ROUND 2/5]
+[92mINFO [0m:      configure_train: Sampled 64 nodes (out of 64)
+[92mINFO [0m:      aggregate_train: Received 64 results and 0 failures
+[92mINFO [0m:      	└──> Train metrics: {'model_creation_time': 0.02431123784375533, 'model_deserialization_time': 0.010367260078118612, 'data_loading_time': 2.0841415832343726, 'local_training_time': 37.22602998157812, 'model_serialization_time': 0.005726955312498561, 'client_total_time': 39.350577018046884, 'client_energy_joules': 2460.5612625179406, 'client_emissions_kg': 0.0, 'client_carbon_duration': 39.35113903880119}
+[92mINFO [0m:      configure_evaluate: Sampled 64 nodes (out of 64)
+[92mINFO [0m:      aggregate_evaluate: Received 64 results and 0 failures
+[92mINFO [0m:      	└──> Eval metrics: {'test_logloss': 0.6931522827488698, 'accuracy': 0.5009374999999999, 'model_creation_time': 0.024567678984375618, 'model_deserialization_time': 0.010456797890631364, 'data_loading_time': 2.0420081051093675, 'local_evaluation_time': 2.242009139890625, 'client_total_time': 4.319041721874999, 'client_energy_joules': 218.58887503511582, 'client_emissions_kg': 0.0, 'client_carbon_duration': 4.319111105054617}
+[92mINFO [0m:      
+[92mINFO [0m:      [ROUND 3/5]
+[92mINFO [0m:      configure_train: Sampled 64 nodes (out of 64)
+[92mINFO [0m:      aggregate_train: Received 64 results and 0 failures
+[92mINFO [0m:      	└──> Train metrics: {'model_creation_time': 0.024494684765622665, 'model_deserialization_time': 0.010448925156239852, 'data_loading_time': 2.03109704778125, 'local_training_time': 37.128047958187494, 'model_serialization_time': 0.005691733453126346, 'client_total_time': 39.199780349343726, 'client_energy_joules': 2463.826151409151, 'client_emissions_kg': 0.0, 'client_carbon_duration': 39.20033534616232}
+[92mINFO [0m:      configure_evaluate: Sampled 64 nodes (out of 64)
+[92mINFO [0m:      aggregate_evaluate: Received 64 results and 0 failures
+[92mINFO [0m:      	└──> Eval metrics: {'test_logloss': 0.6931683621102364, 'accuracy': 0.5009187499999999, 'model_creation_time': 0.024438054796872777, 'model_deserialization_time': 0.010359691140628513, 'data_loading_time': 2.4686603021562465, 'local_evaluation_time': 2.2503762784999974, 'client_total_time': 4.753834326593745, 'client_energy_joules': 212.8427028985083, 'client_emissions_kg': 0.0, 'client_carbon_duration': 4.753901340067387}
+[92mINFO [0m:      
+[92mINFO [0m:      [ROUND 4/5]
+[92mINFO [0m:      configure_train: Sampled 64 nodes (out of 64)
+[92mINFO [0m:      aggregate_train: Received 64 results and 0 failures
+[92mINFO [0m:      	└──> Train metrics: {'model_creation_time': 0.02441493029687969, 'model_deserialization_time': 0.010375449187501218, 'data_loading_time': 2.3248560576406163, 'local_training_time': 37.343945726875006, 'model_serialization_time': 0.005774633437495069, 'client_total_time': 39.70936679743748, 'client_energy_joules': 2491.0274332509553, 'client_emissions_kg': 0.0, 'client_carbon_duration': 39.70994670316577}
+[92mINFO [0m:      configure_evaluate: Sampled 64 nodes (out of 64)
+[92mINFO [0m:      aggregate_evaluate: Received 64 results and 0 failures
+[92mINFO [0m:      	└──> Eval metrics: {'test_logloss': 0.6931585258074626, 'accuracy': 0.49909375, 'model_creation_time': 0.024532917656246767, 'model_deserialization_time': 0.010335138796868648, 'data_loading_time': 2.0214346575000057, 'local_evaluation_time': 2.257162051093747, 'client_total_time': 4.313464765046868, 'client_energy_joules': 219.59373704560454, 'client_emissions_kg': 0.0, 'client_carbon_duration': 4.313532881438732}
+[92mINFO [0m:      
+[92mINFO [0m:      [ROUND 5/5]
+[92mINFO [0m:      configure_train: Sampled 64 nodes (out of 64)
+[92mINFO [0m:      aggregate_train: Received 64 results and 0 failures
+[92mINFO [0m:      	└──> Train metrics: {'model_creation_time': 0.02467689028125264, 'model_deserialization_time': 0.010444042578123813, 'data_loading_time': 2.0108424980781265, 'local_training_time': 37.14346679934375, 'model_serialization_time': 0.0056203536093839546, 'client_total_time': 39.19505058389062, 'client_energy_joules': 2466.3704424326556, 'client_emissions_kg': 0.0, 'client_carbon_duration': 39.1956052146852}
+[92mINFO [0m:      configure_evaluate: Sampled 64 nodes (out of 64)
+[92mINFO [0m:      aggregate_evaluate: Received 64 results and 0 failures
+[92mINFO [0m:      	└──> Eval metrics: {'test_logloss': 0.693156977801044, 'accuracy': 0.49909375000000006, 'model_creation_time': 0.024625209515630075, 'model_deserialization_time': 0.010428500046883116, 'data_loading_time': 2.0510123234218725, 'local_evaluation_time': 2.255498520812493, 'client_total_time': 4.341564553796879, 'client_energy_joules': 224.22638616046632, 'client_emissions_kg': 0.0, 'client_carbon_duration': 4.3416329883039}
+[92mINFO [0m:      
+flwr run exited with code 0
+[server] finished rc=0
+[job 6984820] server finished rc=0

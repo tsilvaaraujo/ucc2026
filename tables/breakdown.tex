@@ -1,0 +1,20 @@
+\begin{table*}[t]
+\centering
+\caption{Per-round decomposition of the training phase of a federated round.}
+\label{tab:breakdown}
+\footnotesize
+\begin{tabular}{lrrr}
+\toprule
+Per round & CNN & LSTM & LLM \\
+\midrule
+Client computation (\si{\second}) & $242.4 \pm 1.8$ & $45.3 \pm 1.0$ & $4103 \pm 7$ \\
+Network overhead (\si{\second})   & $89.1 \pm 2.1$ & $17.0 \pm 0.4$ & $31.0 \pm 1.8$ \\
+Straggler spread (\si{\second})   & $20.0 \pm 2.1$ & $5.9 \pm 0.7$ & $1073 \pm 17$ \\
+\quad as \% of computation        & \num{8.3} & \num{13.0} & \num{26.2} \\
+Communication to computation      & $0.369 \pm 0.011$ & $0.381 \pm 0.012$ & $0.008 \pm 0.000$ \\
+Round efficiency                  & $0.645 \pm 0.005$ & $0.611 \pm 0.006$ & $0.987 \pm 0.000$ \\
+Throughput (\si{\mega\byte\per\second}) & $13.6 \pm 0.0$ & $75.8 \pm 2.2$ & $4.1 \pm 0.0$ \\
+Link utilization (\%)             & \num{0.44} & \num{2.43} & \num{0.13} \\
+\bottomrule
+\end{tabular}
+\end{table*}

@@ -1,0 +1,16 @@
+\begin{table*}[t]
+\centering
+\caption{Mean per-run cost by workload ($\pm$ one standard deviation).}
+\label{tab:cost}
+\footnotesize
+\begin{tabular}{lrrrrrrr}
+\toprule
+Workload & Coordinator & Per client & Federation & Carbon & Sent & Recv.\ & Time \\
+         & (kJ)        & (kJ)       & (MJ)       & (g CO\textsubscript{2}) & (GB) & (GB) & (s) \\
+\midrule
+CNN  & \num{104.76} $\pm$ \num{0.35} & \num{79.44} $\pm$ \num{0.07} & \num{5.19} & \num{80.8} & \num{22.0} $\pm$ \num{0.0} & \num{11.8} $\pm$ \num{0.0} & \num{2048} $\pm$ \num{5} \\
+LSTM & \num{21.90} $\pm$ \num{0.30} & \num{14.08} $\pm$ \num{0.19} & \num{0.92} & \num{14.4} & \num{25.4} $\pm$ \num{0.0} & \num{10.7} $\pm$ \num{0.5} & \num{408} $\pm$ \num{6} \\
+LLM  & \num{1329.66} $\pm$ \num{2.13} & \num{1361.80} $\pm$ \num{0.50} & \num{88.49} & \num{1377.4} & \num{79.7} $\pm$ \num{0.0} & \num{44.7} $\pm$ \num{0.1} & \num{26264} $\pm$ \num{43} \\
+\bottomrule
+\end{tabular}
+\end{table*}

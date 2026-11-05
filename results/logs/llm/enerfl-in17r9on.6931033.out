@@ -1,0 +1,274 @@
+[job 6931033] server=gros-39 ip=172.16.66.39 clients=gros-41.nancy.grid5000.fr gros-42.nancy.grid5000.fr gros-43.nancy.grid5000.fr gros-44.nancy.grid5000.fr gros-45.nancy.grid5000.fr gros-46.nancy.grid5000.fr gros-47.nancy.grid5000.fr gros-48.nancy.grid5000.fr gros-49.nancy.grid5000.fr gros-4.nancy.grid5000.fr gros-50.nancy.grid5000.fr gros-51.nancy.grid5000.fr gros-52.nancy.grid5000.fr gros-53.nancy.grid5000.fr gros-54.nancy.grid5000.fr gros-55.nancy.grid5000.fr gros-56.nancy.grid5000.fr gros-57.nancy.grid5000.fr gros-58.nancy.grid5000.fr gros-59.nancy.grid5000.fr gros-5.nancy.grid5000.fr gros-60.nancy.grid5000.fr gros-61.nancy.grid5000.fr gros-62.nancy.grid5000.fr gros-63.nancy.grid5000.fr gros-64.nancy.grid5000.fr gros-65.nancy.grid5000.fr gros-66.nancy.grid5000.fr gros-67.nancy.grid5000.fr gros-68.nancy.grid5000.fr gros-69.nancy.grid5000.fr gros-6.nancy.grid5000.fr gros-70.nancy.grid5000.fr gros-71.nancy.grid5000.fr gros-73.nancy.grid5000.fr gros-74.nancy.grid5000.fr gros-75.nancy.grid5000.fr gros-76.nancy.grid5000.fr gros-77.nancy.grid5000.fr gros-78.nancy.grid5000.fr gros-79.nancy.grid5000.fr gros-7.nancy.grid5000.fr gros-80.nancy.grid5000.fr gros-81.nancy.grid5000.fr gros-82.nancy.grid5000.fr gros-83.nancy.grid5000.fr gros-84.nancy.grid5000.fr gros-85.nancy.grid5000.fr gros-86.nancy.grid5000.fr gros-87.nancy.grid5000.fr gros-88.nancy.grid5000.fr gros-89.nancy.grid5000.fr gros-8.nancy.grid5000.fr gros-90.nancy.grid5000.fr gros-91.nancy.grid5000.fr gros-92.nancy.grid5000.fr gros-93.nancy.grid5000.fr gros-94.nancy.grid5000.fr gros-95.nancy.grid5000.fr gros-96.nancy.grid5000.fr gros-97.nancy.grid5000.fr gros-98.nancy.grid5000.fr gros-99.nancy.grid5000.fr gros-9.nancy.grid5000.fr
+[job 6931033] NUM_CLIENTS=64 clients/node=1
+[stage] gros-39.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-39.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[server] gros-39.nancy.grid5000.fr ip=172.16.66.39 csv=/tmp/enerfl-benchmarking/results/metrics_Alpaca-GPT4_FedAvg_OpenLLaMA_c64_rin17r9on_p1_6931033.csv mode=on
+[stage] gros-50.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-42.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-43.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-48.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-55.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-44.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-5.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-46.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-41.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-4.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-45.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-66.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-57.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-56.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-59.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-70.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-53.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-67.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-47.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-54.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-58.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-76.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-68.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-62.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-69.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-63.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-52.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-60.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-85.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-6.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-51.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-64.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-78.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-65.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-89.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-84.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-86.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-71.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-49.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-79.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-88.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-7.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-90.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-77.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-82.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-81.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-92.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-83.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-73.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-80.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-9.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-98.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-87.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-61.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-74.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-93.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-94.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-96.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-95.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-91.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-75.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-99.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-97.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+[stage] gros-8.nancy.grid5000.fr: syncing /home/taraujo/enerfl-benchmarking -> /tmp/enerfl-benchmarking
+Waiting 30s for clients to connect...
+[client] gros-56.nancy.grid5000.fr clients/node=1 base=16 link=172.16.66.39
+[client] spawn partition-id=16 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p16_gros-56.log
+[client] gros-90.nancy.grid5000.fr clients/node=1 base=53 link=172.16.66.39
+[client] spawn partition-id=53 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p53_gros-90.log
+[client] gros-45.nancy.grid5000.fr clients/node=1 base=4 link=172.16.66.39
+[client] spawn partition-id=4 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p4_gros-45.log
+[client] gros-86.nancy.grid5000.fr clients/node=1 base=48 link=172.16.66.39
+[client] spawn partition-id=48 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p48_gros-86.log
+Starting flwr run (PROFILER_MODE=on)...
+Using SuperLink: local-deployment (127.0.0.1:9093)
+Successfully started run 6938266650462024879
+[client] gros-53.nancy.grid5000.fr clients/node=1 base=13 link=172.16.66.39
+[client] spawn partition-id=13 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p13_gros-53.log
+[client] gros-81.nancy.grid5000.fr clients/node=1 base=43 link=172.16.66.39
+[client] spawn partition-id=43 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p43_gros-81.log
+[client] gros-76.nancy.grid5000.fr clients/node=1 base=37 link=172.16.66.39
+[client] spawn partition-id=37 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p37_gros-76.log
+[client] gros-55.nancy.grid5000.fr clients/node=1 base=15 link=172.16.66.39
+[client] spawn partition-id=15 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p15_gros-55.log
+[client] gros-58.nancy.grid5000.fr clients/node=1 base=18 link=172.16.66.39
+[client] spawn partition-id=18 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p18_gros-58.log
+[client] gros-99.nancy.grid5000.fr clients/node=1 base=62 link=172.16.66.39
+[client] spawn partition-id=62 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p62_gros-99.log
+[client] gros-64.nancy.grid5000.fr clients/node=1 base=25 link=172.16.66.39
+[client] spawn partition-id=25 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p25_gros-64.log
+[client] gros-47.nancy.grid5000.fr clients/node=1 base=6 link=172.16.66.39
+[client] spawn partition-id=6 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p6_gros-47.log
+[client] gros-46.nancy.grid5000.fr clients/node=1 base=5 link=172.16.66.39
+[client] spawn partition-id=5 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p5_gros-46.log
+[client] gros-49.nancy.grid5000.fr clients/node=1 base=8 link=172.16.66.39
+[client] spawn partition-id=8 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p8_gros-49.log
+[client] gros-82.nancy.grid5000.fr clients/node=1 base=44 link=172.16.66.39
+[client] spawn partition-id=44 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p44_gros-82.log
+[client] gros-42.nancy.grid5000.fr clients/node=1 base=1 link=172.16.66.39
+[client] spawn partition-id=1 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p1_gros-42.log
+[client] gros-6.nancy.grid5000.fr clients/node=1 base=31 link=172.16.66.39
+[client] spawn partition-id=31 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p31_gros-6.log
+[client] gros-67.nancy.grid5000.fr clients/node=1 base=28 link=172.16.66.39
+[client] spawn partition-id=28 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p28_gros-67.log
+[client] gros-93.nancy.grid5000.fr clients/node=1 base=56 link=172.16.66.39
+[client] spawn partition-id=56 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p56_gros-93.log
+[client] gros-71.nancy.grid5000.fr clients/node=1 base=33 link=172.16.66.39
+[client] spawn partition-id=33 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p33_gros-71.log
+[client] gros-70.nancy.grid5000.fr clients/node=1 base=32 link=172.16.66.39
+[client] spawn partition-id=32 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p32_gros-70.log
+[client] gros-78.nancy.grid5000.fr clients/node=1 base=39 link=172.16.66.39
+[client] spawn partition-id=39 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p39_gros-78.log
+[client] gros-87.nancy.grid5000.fr clients/node=1 base=49 link=172.16.66.39
+[client] spawn partition-id=49 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p49_gros-87.log
+[client] gros-48.nancy.grid5000.fr clients/node=1 base=7 link=172.16.66.39
+[client] spawn partition-id=7 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p7_gros-48.log
+[client] gros-98.nancy.grid5000.fr clients/node=1 base=61 link=172.16.66.39
+[client] spawn partition-id=61 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p61_gros-98.log
+[client] gros-61.nancy.grid5000.fr clients/node=1 base=22 link=172.16.66.39
+[client] spawn partition-id=22 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p22_gros-61.log
+[client] gros-80.nancy.grid5000.fr clients/node=1 base=42 link=172.16.66.39
+[client] spawn partition-id=42 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p42_gros-80.log
+[client] gros-5.nancy.grid5000.fr clients/node=1 base=20 link=172.16.66.39
+[client] spawn partition-id=20 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p20_gros-5.log
+[client] gros-84.nancy.grid5000.fr clients/node=1 base=46 link=172.16.66.39
+[client] spawn partition-id=46 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p46_gros-84.log
+[client] gros-44.nancy.grid5000.fr clients/node=1 base=3 link=172.16.66.39
+[client] spawn partition-id=3 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p3_gros-44.log
+[client] gros-41.nancy.grid5000.fr clients/node=1 base=0 link=172.16.66.39
+[client] spawn partition-id=0 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p0_gros-41.log
+[client] gros-68.nancy.grid5000.fr clients/node=1 base=29 link=172.16.66.39
+[client] spawn partition-id=29 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p29_gros-68.log
+[client] gros-9.nancy.grid5000.fr clients/node=1 base=63 link=172.16.66.39
+[client] spawn partition-id=63 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p63_gros-9.log
+[client] gros-85.nancy.grid5000.fr clients/node=1 base=47 link=172.16.66.39
+[client] spawn partition-id=47 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p47_gros-85.log
+[client] gros-69.nancy.grid5000.fr clients/node=1 base=30 link=172.16.66.39
+[client] spawn partition-id=30 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p30_gros-69.log
+[client] gros-59.nancy.grid5000.fr clients/node=1 base=19 link=172.16.66.39
+[client] spawn partition-id=19 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p19_gros-59.log
+[client] gros-57.nancy.grid5000.fr clients/node=1 base=17 link=172.16.66.39
+[client] spawn partition-id=17 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p17_gros-57.log
+[client] gros-77.nancy.grid5000.fr clients/node=1 base=38 link=172.16.66.39
+[client] spawn partition-id=38 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p38_gros-77.log
+[client] gros-94.nancy.grid5000.fr clients/node=1 base=57 link=172.16.66.39
+[client] spawn partition-id=57 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p57_gros-94.log
+[client] gros-97.nancy.grid5000.fr clients/node=1 base=60 link=172.16.66.39
+[client] spawn partition-id=60 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p60_gros-97.log
+[client] gros-92.nancy.grid5000.fr clients/node=1 base=55 link=172.16.66.39
+[client] spawn partition-id=55 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p55_gros-92.log
+[client] gros-54.nancy.grid5000.fr clients/node=1 base=14 link=172.16.66.39
+[client] spawn partition-id=14 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p14_gros-54.log
+[client] gros-4.nancy.grid5000.fr clients/node=1 base=9 link=172.16.66.39
+[client] spawn partition-id=9 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p9_gros-4.log
+[client] gros-62.nancy.grid5000.fr clients/node=1 base=23 link=172.16.66.39
+[client] spawn partition-id=23 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p23_gros-62.log
+[client] gros-60.nancy.grid5000.fr clients/node=1 base=21 link=172.16.66.39
+[client] spawn partition-id=21 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p21_gros-60.log
+[client] gros-79.nancy.grid5000.fr clients/node=1 base=40 link=172.16.66.39
+[client] spawn partition-id=40 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p40_gros-79.log
+[client] gros-43.nancy.grid5000.fr clients/node=1 base=2 link=172.16.66.39
+[client] spawn partition-id=2 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p2_gros-43.log
+[client] gros-65.nancy.grid5000.fr clients/node=1 base=26 link=172.16.66.39
+[client] spawn partition-id=26 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p26_gros-65.log
+[client] gros-66.nancy.grid5000.fr clients/node=1 base=27 link=172.16.66.39
+[client] spawn partition-id=27 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p27_gros-66.log
+[client] gros-89.nancy.grid5000.fr clients/node=1 base=51 link=172.16.66.39
+[client] spawn partition-id=51 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p51_gros-89.log
+[client] gros-83.nancy.grid5000.fr clients/node=1 base=45 link=172.16.66.39
+[client] spawn partition-id=45 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p45_gros-83.log
+[client] gros-50.nancy.grid5000.fr clients/node=1 base=10 link=172.16.66.39
+[client] spawn partition-id=10 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p10_gros-50.log
+[client] gros-52.nancy.grid5000.fr clients/node=1 base=12 link=172.16.66.39
+[client] spawn partition-id=12 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p12_gros-52.log
+[client] gros-51.nancy.grid5000.fr clients/node=1 base=11 link=172.16.66.39
+[client] spawn partition-id=11 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p11_gros-51.log
+[client] gros-75.nancy.grid5000.fr clients/node=1 base=36 link=172.16.66.39
+[client] spawn partition-id=36 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p36_gros-75.log
+[client] gros-91.nancy.grid5000.fr clients/node=1 base=54 link=172.16.66.39
+[client] spawn partition-id=54 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p54_gros-91.log
+[client] gros-7.nancy.grid5000.fr clients/node=1 base=41 link=172.16.66.39
+[client] spawn partition-id=41 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p41_gros-7.log
+[client] gros-73.nancy.grid5000.fr clients/node=1 base=34 link=172.16.66.39
+[client] spawn partition-id=34 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p34_gros-73.log
+[client] gros-96.nancy.grid5000.fr clients/node=1 base=59 link=172.16.66.39
+[client] spawn partition-id=59 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p59_gros-96.log
+[client] gros-63.nancy.grid5000.fr clients/node=1 base=24 link=172.16.66.39
+[client] spawn partition-id=24 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p24_gros-63.log
+[client] gros-74.nancy.grid5000.fr clients/node=1 base=35 link=172.16.66.39
+[client] spawn partition-id=35 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p35_gros-74.log
+[client] gros-88.nancy.grid5000.fr clients/node=1 base=50 link=172.16.66.39
+[client] spawn partition-id=50 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p50_gros-88.log
+[client] gros-8.nancy.grid5000.fr clients/node=1 base=52 link=172.16.66.39
+[client] spawn partition-id=52 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p52_gros-8.log
+[client] gros-95.nancy.grid5000.fr clients/node=1 base=58 link=172.16.66.39
+[client] spawn partition-id=58 port=9094 -> /tmp/enerfl-benchmarking/state/6931033/client_logs/supernode_p58_gros-95.log
+[92mINFO [0m:      Start `flwr-serverapp` process
+mkdir -p failed for path /home/taraujo/.config/matplotlib: [Errno 13] Permission denied: '/home/taraujo/.config/matplotlib'
+Matplotlib created a temporary cache directory at /tmp/matplotlib-44en6z9h because there was an issue with the default path ({configdir}); it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+[93mWARNING [0m:   CarbonTracker: dropping unsupported kwarg 'country_iso_code'
+[codecarbon WARNING @ 13:09:31] Multiple instances of codecarbon are allowed to run at the same time.
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]Loading weights:   0%|          | 1/291 [00:06<31:35,  6.54s/it]Loading weights:   1%|          | 2/291 [00:07<14:44,  3.06s/it]Loading weights:   1%|▏         | 4/291 [00:07<06:08,  1.29s/it]Loading weights:   2%|▏         | 5/291 [00:07<04:44,  1.00it/s]Loading weights:   2%|▏         | 6/291 [00:08<03:45,  1.26it/s]Loading weights:   3%|▎         | 8/291 [00:08<02:08,  2.21it/s]Loading weights:   3%|▎         | 9/291 [00:08<01:51,  2.52it/s]Loading weights:   3%|▎         | 10/291 [00:08<01:38,  2.85it/s]Loading weights:   4%|▍         | 11/291 [00:09<01:26,  3.24it/s]Loading weights:   4%|▍         | 13/291 [00:09<01:22,  3.36it/s]Loading weights:   5%|▍         | 14/291 [00:10<01:29,  3.09it/s]Loading weights:   5%|▌         | 15/291 [00:10<01:55,  2.38it/s]Loading weights:   6%|▌         | 17/291 [00:10<01:14,  3.69it/s]Loading weights:   6%|▌         | 18/291 [00:11<01:06,  4.13it/s]Loading weights:   7%|▋         | 20/291 [00:11<00:49,  5.44it/s]Loading weights:   8%|▊         | 22/291 [00:11<00:44,  6.06it/s]Loading weights:   8%|▊         | 23/291 [00:11<00:48,  5.57it/s]Loading weights:   8%|▊         | 24/291 [00:11<00:53,  4.98it/s]Loading weights:   9%|▉         | 27/291 [00:12<00:35,  7.47it/s]Loading weights:  10%|▉         | 29/291 [00:12<00:32,  8.17it/s]Loading weights:  11%|█         | 31/291 [00:12<00:32,  7.95it/s]Loading weights:  11%|█         | 32/291 [00:12<00:39,  6.61it/s]Loading weights:  11%|█▏        | 33/291 [00:13<00:44,  5.73it/s]Loading weights:  12%|█▏        | 36/291 [00:13<00:31,  8.12it/s]Loading weights:  13%|█▎        | 37/291 [00:13<00:30,  8.35it/s]Loading weights:  13%|█▎        | 38/291 [00:13<00:29,  8.56it/s]Loading weights:  14%|█▎        | 40/291 [00:13<00:30,  8.25it/s]Loading weights:  14%|█▍        | 41/291 [00:14<00:38,  6.57it/s]Loading weights:  14%|█▍        | 42/291 [00:14<00:43,  5.68it/s]Loading weights:  15%|█▌        | 45/291 [00:14<00:29,  8.26it/s]Loading weights:  16%|█▌        | 46/291 [00:14<00:29,  8.45it/s]Loading weights:  16%|█▌        | 47/291 [00:14<00:28,  8.64it/s]Loading weights:  17%|█▋        | 49/291 [00:15<00:29,  8.26it/s]Loading weights:  17%|█▋        | 50/291 [00:15<00:35,  6.86it/s]Loading weights:  18%|█▊        | 51/291 [00:15<00:41,  5.71it/s]Loading weights:  19%|█▊        | 54/291 [00:15<00:28,  8.34it/s]Loading weights:  19%|█▉        | 55/291 [00:15<00:27,  8.55it/s]Loading weights:  19%|█▉        | 56/291 [00:15<00:26,  8.71it/s]Loading weights:  20%|█▉        | 58/291 [00:16<00:28,  8.06it/s]Loading weights:  20%|██        | 59/291 [00:16<00:35,  6.53it/s]Loading weights:  21%|██        | 60/291 [00:16<00:41,  5.59it/s]Loading weights:  21%|██▏       | 62/291 [00:16<00:29,  7.81it/s]Loading weights:  22%|██▏       | 64/291 [00:17<00:27,  8.31it/s]Loading weights:  22%|██▏       | 65/291 [00:17<00:26,  8.48it/s]Loading weights:  23%|██▎       | 67/291 [00:17<00:28,  7.98it/s]Loading weights:  23%|██▎       | 68/291 [00:17<00:34,  6.54it/s]Loading weights:  24%|██▎       | 69/291 [00:17<00:39,  5.66it/s]Loading weights:  24%|██▍       | 71/291 [00:18<00:28,  7.85it/s]Loading weights:  25%|██▌       | 73/291 [00:18<00:26,  8.36it/s]Loading weights:  25%|██▌       | 74/291 [00:18<00:25,  8.53it/s]Loading weights:  26%|██▌       | 76/291 [00:18<00:26,  8.06it/s]Loading weights:  26%|██▋       | 77/291 [00:18<00:33,  6.42it/s]Loading weights:  27%|██▋       | 78/291 [00:19<00:38,  5.47it/s]Loading weights:  27%|██▋       | 80/291 [00:19<00:27,  7.61it/s]Loading weights:  28%|██▊       | 82/291 [00:19<00:25,  8.16it/s]Loading weights:  29%|██▊       | 83/291 [00:19<00:24,  8.38it/s]Loading weights:  29%|██▉       | 85/291 [00:19<00:25,  8.14it/s]Loading weights:  30%|██▉       | 86/291 [00:20<00:30,  6.64it/s]Loading weights:  30%|██▉       | 87/291 [00:20<00:34,  5.88it/s]Loading weights:  31%|███       | 89/291 [00:20<00:24,  8.09it/s]Loading weights:  31%|███▏      | 91/291 [00:20<00:23,  8.54it/s]Loading weights:  32%|███▏      | 93/291 [00:20<00:18, 10.45it/s]Loading weights:  33%|███▎      | 95/291 [00:21<00:29,  6.56it/s]Loading weights:  33%|███▎      | 96/291 [00:21<00:33,  5.77it/s]Loading weights:  34%|███▍      | 99/291 [00:21<00:23,  8.04it/s]Loading weights:  35%|███▍      | 101/291 [00:22<00:22,  8.42it/s]Loading weights:  35%|███▌      | 103/291 [00:22<00:23,  8.09it/s]Loading weights:  36%|███▌      | 104/291 [00:22<00:27,  6.79it/s]Loading weights:  36%|███▌      | 105/291 [00:22<00:31,  5.89it/s]Loading weights:  37%|███▋      | 107/291 [00:22<00:23,  7.82it/s]Loading weights:  37%|███▋      | 109/291 [00:23<00:21,  8.31it/s]Loading weights:  38%|███▊      | 110/291 [00:23<00:21,  8.46it/s]Loading weights:  38%|███▊      | 112/291 [00:23<00:21,  8.18it/s]Loading weights:  39%|███▉      | 113/291 [00:23<00:27,  6.55it/s]Loading weights:  39%|███▉      | 114/291 [00:24<00:30,  5.83it/s]Loading weights:  40%|███▉      | 116/291 [00:24<00:21,  7.99it/s]Loading weights:  41%|████      | 118/291 [00:24<00:20,  8.44it/s]Loading weights:  41%|████      | 119/291 [00:24<00:19,  8.62it/s]Loading weights:  42%|████▏     | 121/291 [00:24<00:20,  8.32it/s]Loading weights:  42%|████▏     | 122/291 [00:24<00:25,  6.55it/s]Loading weights:  42%|████▏     | 123/291 [00:25<00:29,  5.61it/s]Loading weights:  43%|████▎     | 125/291 [00:25<00:21,  7.79it/s]Loading weights:  44%|████▎     | 127/291 [00:25<00:19,  8.30it/s]Loading weights:  44%|████▍     | 128/291 [00:25<00:19,  8.48it/s]Loading weights:  45%|████▍     | 130/291 [00:25<00:19,  8.13it/s]Loading weights:  45%|████▌     | 131/291 [00:26<00:24,  6.41it/s]Loading weights:  45%|████▌     | 132/291 [00:26<00:29,  5.47it/s]Loading weights:  46%|████▌     | 134/291 [00:26<00:20,  7.61it/s]Loading weights:  47%|████▋     | 136/291 [00:26<00:19,  7.87it/s]Loading weights:  47%|████▋     | 137/291 [00:26<00:18,  8.11it/s]Loading weights:  48%|████▊     | 139/291 [00:27<00:19,  7.74it/s]Loading weights:  48%|████▊     | 140/291 [00:27<00:23,  6.42it/s]Loading weights:  48%|████▊     | 141/291 [00:27<00:26,  5.60it/s]Loading weights:  49%|████▉     | 143/291 [00:27<00:19,  7.61it/s]Loading weights:  49%|████▉     | 144/291 [00:27<00:18,  7.98it/s]Loading weights:  50%|████▉     | 145/291 [00:28<00:17,  8.29it/s]Loading weights:  51%|█████     | 148/291 [00:28<00:17,  8.21it/s]Loading weights:  51%|█████     | 149/291 [00:28<00:20,  6.76it/s]Loading weights:  52%|█████▏    | 150/291 [00:28<00:24,  5.83it/s]Loading weights:  53%|█████▎    | 153/291 [00:29<00:16,  8.25it/s]Loading weights:  53%|█████▎    | 154/291 [00:29<00:16,  8.43it/s]Loading weights:  53%|█████▎    | 155/291 [00:29<00:15,  8.62it/s]Loading weights:  54%|█████▍    | 157/291 [00:29<00:16,  8.29it/s]Loading weights:  54%|█████▍    | 158/291 [00:29<00:20,  6.53it/s]Loading weights:  55%|█████▍    | 159/291 [00:30<00:23,  5.63it/s]Loading weights:  55%|█████▌    | 161/291 [00:30<00:16,  7.78it/s]Loading weights:  56%|█████▌    | 162/291 [00:30<00:15,  8.10it/s]Loading weights:  56%|█████▌    | 163/291 [00:30<00:15,  8.38it/s]Loading weights:  56%|█████▋    | 164/291 [00:30<00:14,  8.62it/s]Loading weights:  57%|█████▋    | 166/291 [00:30<00:14,  8.56it/s]Loading weights:  57%|█████▋    | 167/291 [00:31<00:18,  6.53it/s]Loading weights:  58%|█████▊    | 168/291 [00:31<00:22,  5.59it/s]Loading weights:  58%|█████▊    | 170/291 [00:31<00:15,  7.89it/s]Loading weights:  59%|█████▉    | 172/291 [00:31<00:14,  8.42it/s]Loading weights:  59%|█████▉    | 173/291 [00:31<00:13,  8.55it/s]Loading weights:  60%|██████    | 175/291 [00:32<00:14,  7.99it/s]Loading weights:  60%|██████    | 176/291 [00:32<00:17,  6.41it/s]Loading weights:  61%|██████    | 177/291 [00:32<00:21,  5.42it/s]Loading weights:  62%|██████▏   | 180/291 [00:32<00:13,  7.98it/s]Loading weights:  62%|██████▏   | 181/291 [00:32<00:13,  8.25it/s]Loading weights:  63%|██████▎   | 182/291 [00:32<00:12,  8.45it/s]Loading weights:  63%|██████▎   | 184/291 [00:33<00:13,  7.94it/s]Loading weights:  64%|██████▎   | 185/291 [00:33<00:16,  6.31it/s]Loading weights:  64%|██████▍   | 186/291 [00:33<00:19,  5.43it/s]Loading weights:  65%|██████▍   | 188/291 [00:33<00:13,  7.59it/s]Loading weights:  65%|██████▍   | 189/291 [00:34<00:12,  7.93it/s]Loading weights:  65%|██████▌   | 190/291 [00:34<00:12,  8.24it/s]Loading weights:  66%|██████▌   | 191/291 [00:34<00:11,  8.49it/s]Loading weights:  66%|██████▋   | 193/291 [00:34<00:12,  7.88it/s]Loading weights:  67%|██████▋   | 194/291 [00:34<00:15,  6.20it/s]Loading weights:  67%|██████▋   | 195/291 [00:35<00:18,  5.28it/s]Loading weights:  68%|██████▊   | 197/291 [00:35<00:12,  7.52it/s]Loading weights:  68%|██████▊   | 198/291 [00:35<00:11,  7.85it/s]Loading weights:  68%|██████▊   | 199/291 [00:35<00:11,  8.15it/s]Loading weights:  69%|██████▊   | 200/291 [00:35<00:10,  8.38it/s]Loading weights:  69%|██████▉   | 202/291 [00:35<00:11,  7.84it/s]Loading weights:  70%|██████▉   | 203/291 [00:36<00:14,  6.18it/s]Loading weights:  70%|███████   | 204/291 [00:36<00:16,  5.22it/s]Loading weights:  71%|███████   | 206/291 [00:36<00:11,  7.48it/s]Loading weights:  71%|███████   | 207/291 [00:36<00:10,  7.84it/s]Loading weights:  71%|███████▏  | 208/291 [00:36<00:10,  8.16it/s]Loading weights:  72%|███████▏  | 209/291 [00:36<00:09,  8.44it/s]Loading weights:  73%|███████▎  | 211/291 [00:37<00:09,  8.09it/s]Loading weights:  73%|███████▎  | 212/291 [00:37<00:12,  6.48it/s]Loading weights:  73%|███████▎  | 213/291 [00:37<00:13,  5.71it/s]Loading weights:  74%|███████▍  | 215/291 [00:37<00:09,  8.04it/s]Loading weights:  75%|███████▍  | 217/291 [00:37<00:08,  8.54it/s]Loading weights:  75%|███████▍  | 218/291 [00:37<00:08,  8.68it/s]Loading weights:  76%|███████▌  | 220/291 [00:38<00:08,  8.07it/s]Loading weights:  76%|███████▌  | 221/291 [00:38<00:10,  6.38it/s]Loading weights:  76%|███████▋  | 222/291 [00:38<00:12,  5.55it/s]Loading weights:  77%|███████▋  | 224/291 [00:38<00:08,  7.67it/s]Loading weights:  77%|███████▋  | 225/291 [00:38<00:08,  7.94it/s]Loading weights:  78%|███████▊  | 226/291 [00:39<00:08,  8.12it/s]Loading weights:  78%|███████▊  | 227/291 [00:39<00:07,  8.16it/s]Loading weights:  79%|███████▊  | 229/291 [00:39<00:07,  7.96it/s]Loading weights:  79%|███████▉  | 230/291 [00:39<00:09,  6.38it/s]Loading weights:  79%|███████▉  | 231/291 [00:39<00:10,  5.51it/s]Loading weights:  80%|████████  | 233/291 [00:40<00:07,  7.78it/s]Loading weights:  80%|████████  | 234/291 [00:40<00:07,  8.06it/s]Loading weights:  81%|████████  | 235/291 [00:40<00:06,  8.30it/s]Loading weights:  81%|████████  | 236/291 [00:40<00:06,  8.52it/s]Loading weights:  82%|████████▏ | 238/291 [00:40<00:06,  7.91it/s]Loading weights:  82%|████████▏ | 239/291 [00:40<00:08,  6.26it/s]Loading weights:  82%|████████▏ | 240/291 [00:41<00:09,  5.26it/s]Loading weights:  84%|████████▎ | 243/291 [00:41<00:05,  8.10it/s]Loading weights:  84%|████████▍ | 245/291 [00:41<00:05,  8.69it/s]Loading weights:  85%|████████▍ | 247/291 [00:41<00:05,  8.12it/s]Loading weights:  85%|████████▌ | 248/291 [00:42<00:06,  6.59it/s]Loading weights:  86%|████████▌ | 249/291 [00:42<00:07,  5.73it/s]Loading weights:  86%|████████▋ | 251/291 [00:42<00:05,  7.73it/s]Loading weights:  87%|████████▋ | 252/291 [00:42<00:04,  7.98it/s]Loading weights:  87%|████████▋ | 253/291 [00:42<00:04,  8.28it/s]Loading weights:  87%|████████▋ | 254/291 [00:42<00:04,  8.50it/s]Loading weights:  88%|████████▊ | 256/291 [00:43<00:04,  8.09it/s]Loading weights:  88%|████████▊ | 257/291 [00:43<00:05,  6.40it/s]Loading weights:  89%|████████▊ | 258/291 [00:43<00:05,  5.53it/s]Loading weights:  89%|████████▉ | 260/291 [00:43<00:03,  7.84it/s]Loading weights:  90%|█████████ | 262/291 [00:43<00:03,  8.40it/s]Loading weights:  91%|█████████ | 264/291 [00:44<00:02, 10.41it/s]Loading weights:  91%|█████████▏| 266/291 [00:44<00:03,  6.41it/s]Loading weights:  92%|█████████▏| 267/291 [00:44<00:04,  5.69it/s]Loading weights:  92%|█████████▏| 269/291 [00:44<00:02,  7.58it/s]Loading weights:  93%|█████████▎| 271/291 [00:45<00:02,  8.11it/s]Loading weights:  94%|█████████▍| 273/291 [00:45<00:01,  9.88it/s]Loading weights:  95%|█████████▍| 275/291 [00:45<00:02,  6.40it/s]Loading weights:  95%|█████████▌| 277/291 [00:46<00:02,  6.91it/s]Loading weights:  96%|█████████▌| 278/291 [00:46<00:01,  7.26it/s]Loading weights:  96%|█████████▌| 279/291 [00:46<00:01,  7.64it/s]Loading weights:  96%|█████████▌| 280/291 [00:46<00:01,  7.99it/s]Loading weights:  97%|█████████▋| 281/291 [00:46<00:01,  8.29it/s]Loading weights:  97%|█████████▋| 283/291 [00:46<00:01,  7.83it/s]Loading weights:  98%|█████████▊| 284/291 [00:47<00:01,  6.18it/s]Loading weights:  98%|█████████▊| 285/291 [00:47<00:01,  5.37it/s]Loading weights:  99%|█████████▊| 287/291 [00:47<00:00,  7.63it/s]Loading weights:  99%|█████████▉| 289/291 [00:47<00:00,  8.21it/s]Loading weights: 100%|█████████▉| 290/291 [00:47<00:00,  8.51it/s]Loading weights: 100%|██████████| 291/291 [00:47<00:00,  6.09it/s]
+[92mINFO [0m:      Starting FedAvg (profiled):
+[92mINFO [0m:      	├── Number of rounds: 5
+[92mINFO [0m:      	├── ArrayRecord (64.02 MB)
+[92mINFO [0m:      	├── ConfigRecord (train): {'save_path': /home/taraujo/enerfl-benchmarking/scripts/results/2026-09-20_13-09-32}
+[92mINFO [0m:      	├── ConfigRecord (evaluate): (empty!)
+[92mINFO [0m:      	├──> Sampling:
+[92mINFO [0m:      	│	├──Fraction: train (1.00) | evaluate ( 1.00)
+[92mINFO [0m:      	│	├──Minimum nodes: train (2) | evaluate (2)
+[92mINFO [0m:      	│	└──Minimum available nodes: 2
+[92mINFO [0m:      	└──> Keys in records:
+[92mINFO [0m:      		├── Weighted by: 'num-examples'
+[92mINFO [0m:      		├── ArrayRecord key: 'arrays'
+[92mINFO [0m:      		└── ConfigRecord key: 'config'
+[92mINFO [0m:      
+[92mINFO [0m:      Initial global evaluation: {}
+[92mINFO [0m:      
+[92mINFO [0m:      [ROUND 1/5]
+[92mINFO [0m:      configure_train: Sampled 64 nodes (out of 64)
+[92mINFO [0m:      aggregate_train: Received 64 results and 0 failures
+[92mINFO [0m:      	└──> Train metrics: {'train_loss': 1.7266137353623179, 'data_loading_time': 3.512192056705233, 'model_creation_time': 671.4164484451751, 'model_deserialization_time': 0.030354621134237113, 'local_training_time': 3260.8367005753767, 'model_serialization_time': 0.2887032422184625, 'client_total_time': 3936.0843989406103, 'client_energy_joules': 234937.76991961154, 'client_emissions_kg': 0.0, 'client_carbon_duration': 3936.086483073091}
+[92mINFO [0m:      configure_evaluate: Sampled 64 nodes (out of 64)
+[92mINFO [0m:      aggregate_evaluate: Received 64 results and 0 failures
+[92mINFO [0m:      	└──> Eval metrics: {'test_logloss': 1.8515684623271227, 'data_loading_time': 1.9601391724056612, 'model_creation_time': 25.54803691787515, 'model_deserialization_time': 0.03046351985858564, 'local_evaluation_time': 949.6756645208284, 'client_total_time': 977.2143041309678, 'client_energy_joules': 63069.28545112231, 'client_emissions_kg': 0.0, 'client_carbon_duration': 977.2163694687188}
+[92mINFO [0m:      	└──> Server eval: {}
+[92mINFO [0m:      
+[92mINFO [0m:      [ROUND 2/5]
+[92mINFO [0m:      configure_train: Sampled 64 nodes (out of 64)
+[92mINFO [0m:      aggregate_train: Received 64 results and 0 failures
+[92mINFO [0m:      	└──> Train metrics: {'train_loss': 1.4526597416180096, 'data_loading_time': 1.9611491830536354, 'model_creation_time': 25.537094338168743, 'model_deserialization_time': 0.032330458321068206, 'local_training_time': 3262.1000856493642, 'model_serialization_time': 0.28905540426764376, 'client_total_time': 3289.9197150331756, 'client_energy_joules': 202657.97080520866, 'client_emissions_kg': 0.0, 'client_carbon_duration': 3289.9220930584816}
+[92mINFO [0m:      configure_evaluate: Sampled 64 nodes (out of 64)
+[92mINFO [0m:      aggregate_evaluate: Received 64 results and 0 failures
+[92mINFO [0m:      	└──> Eval metrics: {'test_logloss': 1.6040665227919817, 'data_loading_time': 1.9368375043584365, 'model_creation_time': 25.569683890157194, 'model_deserialization_time': 0.032221032905454194, 'local_evaluation_time': 949.3496472971553, 'client_total_time': 976.8883897245764, 'client_energy_joules': 63052.78858634121, 'client_emissions_kg': 0.0, 'client_carbon_duration': 976.8907489590347}
+[92mINFO [0m:      	└──> Server eval: {}
+[92mINFO [0m:      
+[92mINFO [0m:      [ROUND 3/5]
+[92mINFO [0m:      configure_train: Sampled 64 nodes (out of 64)
+[92mINFO [0m:      aggregate_train: Received 64 results and 0 failures
+[92mINFO [0m:      	└──> Train metrics: {'train_loss': 1.2595029904918658, 'data_loading_time': 1.9656545759312587, 'model_creation_time': 25.557379326649897, 'model_deserialization_time': 0.03234696978092913, 'local_training_time': 3261.718088929645, 'model_serialization_time': 0.2948361100169625, 'client_total_time': 3289.568305912022, 'client_energy_joules': 202631.31671294937, 'client_emissions_kg': 0.0, 'client_carbon_duration': 3289.570649389198}
+[92mINFO [0m:      configure_evaluate: Sampled 64 nodes (out of 64)
+[92mINFO [0m:      aggregate_evaluate: Received 64 results and 0 failures
+[92mINFO [0m:      	└──> Eval metrics: {'test_logloss': 1.308129834011197, 'data_loading_time': 1.9685483323114568, 'model_creation_time': 25.53953031454762, 'model_deserialization_time': 0.03250201768946681, 'local_evaluation_time': 949.5689468259843, 'client_total_time': 977.1095274905329, 'client_energy_joules': 63065.66496128343, 'client_emissions_kg': 0.0, 'client_carbon_duration': 977.1119314804673}
+[92mINFO [0m:      	└──> Server eval: {}
+[92mINFO [0m:      
+[92mINFO [0m:      [ROUND 4/5]
+[92mINFO [0m:      configure_train: Sampled 64 nodes (out of 64)
+[92mINFO [0m:      aggregate_train: Received 64 results and 0 failures
+[92mINFO [0m:      	└──> Train metrics: {'train_loss': 1.2082961846935023, 'data_loading_time': 1.9693145410661492, 'model_creation_time': 25.60417016162816, 'model_deserialization_time': 0.032401712840040696, 'local_training_time': 3261.8007147992425, 'model_serialization_time': 0.29384018241255067, 'client_total_time': 3289.7004413971877, 'client_energy_joules': 202645.05402795022, 'client_emissions_kg': 0.0, 'client_carbon_duration': 3289.702839900783}
+[92mINFO [0m:      configure_evaluate: Sampled 64 nodes (out of 64)
+[92mINFO [0m:      aggregate_evaluate: Received 64 results and 0 failures
+[92mINFO [0m:      	└──> Eval metrics: {'test_logloss': 1.2183518502861261, 'data_loading_time': 1.9715584632972423, 'model_creation_time': 25.535479298686823, 'model_deserialization_time': 0.03244093621901811, 'local_evaluation_time': 949.3761246335475, 'client_total_time': 976.9156033317506, 'client_energy_joules': 63049.97831527612, 'client_emissions_kg': 0.0, 'client_carbon_duration': 976.9179609045386}
+[92mINFO [0m:      	└──> Server eval: {}
+[92mINFO [0m:      
+[92mINFO [0m:      [ROUND 5/5]
+[92mINFO [0m:      configure_train: Sampled 64 nodes (out of 64)
+[92mINFO [0m:      aggregate_train: Received 64 results and 0 failures
+[92mINFO [0m:      	└──> Train metrics: {'train_loss': 1.197523293372442, 'data_loading_time': 1.9557087454481688, 'model_creation_time': 25.556703325941918, 'model_deserialization_time': 0.03242319309185, 'local_training_time': 3262.017089156976, 'model_serialization_time': 0.29070487939908174, 'client_total_time': 3289.8526293008586, 'client_energy_joules': 202654.68298451146, 'client_emissions_kg': 0.0, 'client_carbon_duration': 3289.854998381666}
+[92mINFO [0m:      configure_evaluate: Sampled 64 nodes (out of 64)
+[92mINFO [0m:      aggregate_evaluate: Received 64 results and 0 failures
+[92mINFO [0m:      	└──> Eval metrics: {'test_logloss': 1.1984868478029966, 'data_loading_time': 1.9734398991247417, 'model_creation_time': 25.56918212021992, 'model_deserialization_time': 0.032420545453760496, 'local_evaluation_time': 949.4082291936879, 'client_total_time': 976.9832717584864, 'client_energy_joules': 63057.75062303825, 'client_emissions_kg': 0.0, 'client_carbon_duration': 976.9856993481517}
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]Loading weights:   1%|▏         | 4/291 [00:00<00:16, 17.63it/s]Loading weights:   2%|▏         | 6/291 [00:00<00:27, 10.46it/s]Loading weights:   3%|▎         | 9/291 [00:00<00:19, 14.73it/s]Loading weights:   4%|▍         | 11/291 [00:00<00:17, 15.87it/s]Loading weights:   4%|▍         | 13/291 [00:00<00:18, 14.99it/s]Loading weights:   5%|▌         | 15/291 [00:01<00:25, 11.00it/s]Loading weights:   6%|▌         | 18/291 [00:01<00:18, 14.65it/s]Loading weights:   7%|▋         | 20/291 [00:01<00:17, 15.78it/s]Loading weights:   8%|▊         | 22/291 [00:01<00:17, 15.16it/s]Loading weights:   8%|▊         | 24/291 [00:01<00:23, 11.22it/s]Loading weights:   9%|▉         | 27/291 [00:01<00:17, 14.67it/s]Loading weights:  10%|▉         | 29/291 [00:02<00:16, 15.70it/s]Loading weights:  11%|█         | 31/291 [00:02<00:17, 14.99it/s]Loading weights:  11%|█▏        | 33/291 [00:02<00:23, 11.21it/s]Loading weights:  12%|█▏        | 36/291 [00:02<00:17, 14.57it/s]Loading weights:  13%|█▎        | 38/291 [00:02<00:16, 15.65it/s]Loading weights:  14%|█▎        | 40/291 [00:02<00:16, 14.93it/s]Loading weights:  14%|█▍        | 42/291 [00:03<00:22, 11.23it/s]Loading weights:  15%|█▌        | 45/291 [00:03<00:16, 14.62it/s]Loading weights:  16%|█▌        | 47/291 [00:03<00:15, 15.67it/s]Loading weights:  17%|█▋        | 49/291 [00:03<00:16, 15.03it/s]Loading weights:  18%|█▊        | 51/291 [00:03<00:21, 11.24it/s]Loading weights:  19%|█▊        | 54/291 [00:03<00:16, 14.58it/s]Loading weights:  19%|█▉        | 56/291 [00:03<00:14, 15.67it/s]Loading weights:  20%|█▉        | 58/291 [00:04<00:15, 15.05it/s]Loading weights:  21%|██        | 60/291 [00:04<00:20, 11.29it/s]Loading weights:  22%|██▏       | 63/291 [00:04<00:15, 14.60it/s]Loading weights:  22%|██▏       | 65/291 [00:04<00:14, 15.60it/s]Loading weights:  23%|██▎       | 67/291 [00:04<00:14, 14.99it/s]Loading weights:  24%|██▎       | 69/291 [00:05<00:19, 11.22it/s]Loading weights:  25%|██▍       | 72/291 [00:05<00:15, 14.48it/s]Loading weights:  25%|██▌       | 74/291 [00:05<00:13, 15.58it/s]Loading weights:  26%|██▌       | 76/291 [00:05<00:14, 15.02it/s]Loading weights:  27%|██▋       | 78/291 [00:05<00:18, 11.23it/s]Loading weights:  28%|██▊       | 81/291 [00:05<00:14, 14.56it/s]Loading weights:  29%|██▊       | 83/291 [00:05<00:13, 15.61it/s]Loading weights:  29%|██▉       | 85/291 [00:06<00:13, 15.04it/s]Loading weights:  30%|██▉       | 87/291 [00:06<00:18, 10.87it/s]Loading weights:  31%|███       | 90/291 [00:06<00:14, 14.24it/s]Loading weights:  32%|███▏      | 92/291 [00:06<00:13, 15.26it/s]Loading weights:  32%|███▏      | 94/291 [00:06<00:13, 14.81it/s]Loading weights:  33%|███▎      | 96/291 [00:07<00:17, 11.12it/s]Loading weights:  34%|███▍      | 99/291 [00:07<00:13, 14.49it/s]Loading weights:  35%|███▍      | 101/291 [00:07<00:12, 15.58it/s]Loading weights:  35%|███▌      | 103/291 [00:07<00:12, 15.04it/s]Loading weights:  36%|███▌      | 105/291 [00:07<00:16, 11.27it/s]Loading weights:  37%|███▋      | 108/291 [00:07<00:12, 14.68it/s]Loading weights:  38%|███▊      | 110/291 [00:07<00:11, 15.73it/s]Loading weights:  38%|███▊      | 112/291 [00:08<00:11, 15.14it/s]Loading weights:  39%|███▉      | 114/291 [00:08<00:15, 11.28it/s]Loading weights:  40%|████      | 117/291 [00:08<00:11, 14.71it/s]Loading weights:  41%|████      | 119/291 [00:08<00:10, 15.77it/s]Loading weights:  42%|████▏     | 121/291 [00:08<00:11, 15.12it/s]Loading weights:  42%|████▏     | 123/291 [00:08<00:14, 11.31it/s]Loading weights:  43%|████▎     | 126/291 [00:09<00:11, 14.74it/s]Loading weights:  44%|████▍     | 128/291 [00:09<00:10, 15.81it/s]Loading weights:  45%|████▍     | 130/291 [00:09<00:10, 15.13it/s]Loading weights:  45%|████▌     | 132/291 [00:09<00:14, 11.21it/s]Loading weights:  46%|████▋     | 135/291 [00:09<00:10, 14.62it/s]Loading weights:  47%|████▋     | 137/291 [00:09<00:09, 15.68it/s]Loading weights:  48%|████▊     | 139/291 [00:09<00:10, 15.08it/s]Loading weights:  48%|████▊     | 141/291 [00:10<00:13, 11.28it/s]Loading weights:  49%|████▉     | 144/291 [00:10<00:09, 14.71it/s]Loading weights:  50%|█████     | 146/291 [00:10<00:09, 15.78it/s]Loading weights:  51%|█████     | 148/291 [00:10<00:09, 15.15it/s]Loading weights:  52%|█████▏    | 150/291 [00:10<00:12, 11.28it/s]Loading weights:  53%|█████▎    | 153/291 [00:10<00:09, 14.71it/s]Loading weights:  53%|█████▎    | 155/291 [00:11<00:08, 15.74it/s]Loading weights:  54%|█████▍    | 157/291 [00:11<00:08, 15.10it/s]Loading weights:  55%|█████▍    | 159/291 [00:11<00:11, 11.28it/s]Loading weights:  56%|█████▌    | 162/291 [00:11<00:08, 14.68it/s]Loading weights:  56%|█████▋    | 164/291 [00:11<00:08, 15.72it/s]Loading weights:  57%|█████▋    | 166/291 [00:11<00:08, 14.94it/s]Loading weights:  58%|█████▊    | 168/291 [00:12<00:10, 11.23it/s]Loading weights:  59%|█████▉    | 171/291 [00:12<00:08, 14.60it/s]Loading weights:  59%|█████▉    | 173/291 [00:12<00:07, 15.66it/s]Loading weights:  60%|██████    | 175/291 [00:12<00:07, 14.99it/s]Loading weights:  61%|██████    | 177/291 [00:12<00:10, 11.24it/s]Loading weights:  62%|██████▏   | 180/291 [00:12<00:07, 14.60it/s]Loading weights:  63%|██████▎   | 182/291 [00:13<00:06, 15.71it/s]Loading weights:  63%|██████▎   | 184/291 [00:13<00:07, 15.09it/s]Loading weights:  64%|██████▍   | 186/291 [00:13<00:09, 11.20it/s]Loading weights:  65%|██████▍   | 189/291 [00:13<00:06, 14.60it/s]Loading weights:  66%|██████▌   | 191/291 [00:13<00:06, 15.69it/s]Loading weights:  66%|██████▋   | 193/291 [00:13<00:06, 15.04it/s]Loading weights:  67%|██████▋   | 195/291 [00:14<00:08, 11.24it/s]Loading weights:  68%|██████▊   | 198/291 [00:14<00:06, 14.62it/s]Loading weights:  69%|██████▊   | 200/291 [00:14<00:05, 15.71it/s]Loading weights:  69%|██████▉   | 202/291 [00:14<00:05, 15.10it/s]Loading weights:  70%|███████   | 204/291 [00:14<00:07, 11.19it/s]Loading weights:  71%|███████   | 207/291 [00:14<00:05, 14.57it/s]Loading weights:  72%|███████▏  | 209/291 [00:14<00:05, 15.64it/s]Loading weights:  73%|███████▎  | 211/291 [00:15<00:05, 14.95it/s]Loading weights:  73%|███████▎  | 213/291 [00:15<00:06, 11.18it/s]Loading weights:  74%|███████▍  | 216/291 [00:15<00:05, 14.60it/s]Loading weights:  75%|███████▍  | 218/291 [00:15<00:04, 15.65it/s]Loading weights:  76%|███████▌  | 220/291 [00:15<00:04, 15.05it/s]Loading weights:  76%|███████▋  | 222/291 [00:16<00:06, 11.22it/s]Loading weights:  77%|███████▋  | 225/291 [00:16<00:04, 14.62it/s]Loading weights:  78%|███████▊  | 227/291 [00:16<00:04, 15.68it/s]Loading weights:  79%|███████▊  | 229/291 [00:16<00:04, 15.10it/s]Loading weights:  79%|███████▉  | 231/291 [00:16<00:05, 11.28it/s]Loading weights:  80%|████████  | 234/291 [00:16<00:03, 14.61it/s]Loading weights:  81%|████████  | 236/291 [00:16<00:03, 15.67it/s]Loading weights:  82%|████████▏ | 238/291 [00:17<00:03, 14.96it/s]Loading weights:  82%|████████▏ | 240/291 [00:17<00:04, 11.18it/s]Loading weights:  84%|████████▎ | 243/291 [00:17<00:03, 14.57it/s]Loading weights:  84%|████████▍ | 245/291 [00:17<00:02, 15.63it/s]Loading weights:  85%|████████▍ | 247/291 [00:17<00:02, 15.03it/s]Loading weights:  86%|████████▌ | 249/291 [00:17<00:03, 11.26it/s]Loading weights:  87%|████████▋ | 252/291 [00:18<00:02, 14.69it/s]Loading weights:  87%|████████▋ | 254/291 [00:18<00:02, 15.71it/s]Loading weights:  88%|████████▊ | 256/291 [00:18<00:02, 14.51it/s]Loading weights:  89%|████████▊ | 258/291 [00:18<00:03, 10.60it/s]Loading weights:  90%|████████▉ | 261/291 [00:18<00:02, 13.85it/s]Loading weights:  90%|█████████ | 263/291 [00:18<00:01, 14.87it/s]Loading weights:  91%|█████████ | 265/291 [00:19<00:01, 14.41it/s]Loading weights:  92%|█████████▏| 267/291 [00:19<00:02, 10.90it/s]Loading weights:  93%|█████████▎| 270/291 [00:19<00:01, 14.05it/s]Loading weights:  93%|█████████▎| 272/291 [00:19<00:01, 15.05it/s]Loading weights:  94%|█████████▍| 274/291 [00:19<00:01, 14.30it/s]Loading weights:  95%|█████████▍| 276/291 [00:20<00:01, 10.55it/s]Loading weights:  96%|█████████▌| 279/291 [00:20<00:00, 13.62it/s]Loading weights:  97%|█████████▋| 281/291 [00:20<00:00, 14.42it/s]Loading weights:  97%|█████████▋| 283/291 [00:20<00:00, 13.88it/s]Loading weights:  98%|█████████▊| 285/291 [00:20<00:00, 10.38it/s]Loading weights:  99%|█████████▉| 288/291 [00:20<00:00, 13.42it/s]Loading weights: 100%|█████████▉| 290/291 [00:20<00:00, 14.27it/s]Loading weights: 100%|██████████| 291/291 [00:20<00:00, 13.90it/s]
+[92mINFO [0m:      	└──> Server eval: {}
+[92mINFO [0m:      
+flwr run exited with code 0
+[server] finished rc=0
+[job 6931033] server finished rc=0

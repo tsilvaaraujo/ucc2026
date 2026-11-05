@@ -1,0 +1,3 @@
+[submodule "enerfl-benchmarking"]
+	path = enerfl-benchmarking
+	url = https://github.com/tsilvaaraujo/enerfl-benchmarking.git
